@@ -1,8 +1,10 @@
 # C Syntax Highlighter - Gerçek Zamanlı Lexical & Syntax Analyzer
 Bu proje, C programlama dili için **gerçek zamanlı syntax highlighting** sunan kapsamlı bir araçtır. Dönem ödevi olup, programlama dilleri dersindeki **lexical analyzer** ve **top-down parser** kavramlarını pratik olarak geliştriilmiş bir uygulamadır.
 
-Projeyi indirmek için lütfen linke tıklayınız: [DOWNLOAD EXE](https://github.com/ahmetymtkn/c-highlighter/releases/download/v1.0.0/ahmetymtkn.exe)
-[MEDIUM LINK](https://medium.com/@yumutkanahmet19/c-syntax-highlighter-ger%C3%A7ek-zamanl%C4%B1-lexical-syntax-analyzer-9ff701ca70df)
+# Projeyi indirmek için lütfen linke tıklayınız: [DOWNLOAD EXE](https://github.com/ahmetymtkn/c-highlighter/releases/download/v1.0.0/ahmetymtkn.exe)
+
+# Projenin detaylı incelemek için Medium makale linkim [MEDIUM LINK](https://medium.com/@yumutkanahmet19/c-syntax-highlighter-ger%C3%A7ek-zamanl%C4%B1-lexical-syntax-analyzer-9ff701ca70df)
+
 
 ![Görsel1](https://github.com/ahmetymtkn/c-highlighter/blob/main/src/program_gorsel1.png)
 
