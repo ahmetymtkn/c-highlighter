@@ -3,7 +3,7 @@ Bu proje, C programlama dili için **gerçek zamanlı syntax highlighting** suna
 
 Projeyi indirmek için lütfen linke tıklayınız: [Download exe](https://github.com/ahmetymtkn/c-highlighter/releases/download/v1.0.0/ahmetymtkn.exe)
 
-Projenin demo videosu için tıklayınız [Video Link]()
+Projenin demo videosu için tıklayınız [Video Link](https://youtu.be/AVBdw8v4gy8)
 
 Proje Raporu için Tıklayınız [Rapor.docx](https://github.com/ahmetymtkn/c-highlighter/raw/refs/heads/main/Rapor.docx)
 
