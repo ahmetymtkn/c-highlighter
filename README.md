@@ -5,7 +5,7 @@ Projeyi indirmek için lütfen linke tıklayınız: [Download exe](https://githu
 
 Projenin demo videosu için tıklayınız [Video Link]()
 
-Proje Raporu için Tıklayınız [Rapor.docx](https://github.com/ahmetymtkn/c-highlighter/blob/main/Rapor.docx)
+Proje Raporu için Tıklayınız [Rapor.docx](https://github.com/ahmetymtkn/c-highlighter/raw/refs/heads/main/Rapor.docx)
 
 Projenin detaylı incelemek için Medium makale linkim [Medium Link](https://medium.com/@yumutkanahmet19/c-syntax-highlighter-gerçek-zamanlı-lexical-syntax-analyzer-9ff701ca70df)
 
